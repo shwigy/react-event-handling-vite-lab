@@ -1,4 +1,5 @@
 # React Event Handling Vite Lab
+![Project Screenshot](src/assets/Screenshot_3.png)
 
 ## Setup
 ```bash
